@@ -109,3 +109,7 @@ function optionChanged(newSample) {
 buildCharts(newSample);
 buildMetadata(newSample);
 }
+
+
+// Initialize the dashboard
+init();
